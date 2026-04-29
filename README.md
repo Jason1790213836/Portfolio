@@ -19,6 +19,7 @@ Hardware Design Related Repo: https://github.com/Jason1790213836/hwdesign
 - **2-line buffer + 3×3 sliding window** (no full-frame buffering)
 - **Streaming AXI-Stream pipeline** for continuous dataflow
 - Compute + memory fully overlapped
+- ![image-20260428210845424](./images/archi.png)
 
 ------
 
